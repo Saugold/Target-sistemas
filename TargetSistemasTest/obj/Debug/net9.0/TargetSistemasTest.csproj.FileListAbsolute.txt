@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\bin\Debug\net9.0\TargetSistemasTest.exe
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\bin\Debug\net9.0\TargetSistemasTest.deps.json
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\bin\Debug\net9.0\TargetSistemasTest.runtimeconfig.json
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\bin\Debug\net9.0\TargetSistemasTest.dll
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\bin\Debug\net9.0\TargetSistemasTest.pdb
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\TargetSistemasTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\TargetSistemasTest.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\TargetSistemasTest.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\TargetSistemasTest.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\TargetSistemasTest.dll
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\refint\TargetSistemasTest.dll
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\TargetSistemasTest.pdb
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\TargetSistemasTest.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\programação\Target sistemas\TargetSistemasTest\obj\Debug\net9.0\ref\TargetSistemasTest.dll
